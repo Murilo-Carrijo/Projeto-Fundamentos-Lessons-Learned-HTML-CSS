@@ -2,20 +2,6 @@
 
 Implementação de um portifólio utilizando HTML e CSS.
 
-### Implementações de autoria da Trybe
-
-  * pasta github
-  * pasta .trybe
-  * pasta cypress
-  * arquivo .editorconfig
-  * arquivo .stylelintrc.json
-  * arquivo cypress.json
-  * arquivo exemplo.png
-  * arquivo package-lock.json
-  * arquivo package.json
-  * arquivo reporter.json
-  * as informações do arquivo README.md referente aos requisitos do projeto foram implementadas pela Trybe
-
 ### Como rodar o projeto
 
 1. Clone o repositório
